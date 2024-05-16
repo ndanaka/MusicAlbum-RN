@@ -1,5 +1,5 @@
 # Music Album
-Buy Music Online App with ReactNative. This is a practice project while i am following a course !
+<br>
 ## Demo
 <p display="flex">
 <img src="1.PNG" width="45%" height="45%"/>
@@ -18,7 +18,7 @@ To create an own copy of this application, you have some prerequisites. They are
 ### Make own copy
 First clone the repository using:
 
-    git clone https://github.com/awesomedev08/Music-Album-RN.git
+    git clone https://github.com/awesomedev77/Music-Album-RN.git
 
 Then install the dependencies using:
 
